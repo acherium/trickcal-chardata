@@ -1,0 +1,29 @@
+{
+  "role.dealer": {
+    "id": "role.dealer",
+    "name": {
+      "ko": "딜러",
+      "en": "Dealer",
+      "jp": null,
+      "zh": null
+    }
+  },
+  "role.tanker": {
+    "id": "role.tanker",
+    "name": {
+      "ko": "탱거",
+      "en": "Tanker",
+      "jp": null,
+      "zh": null
+    }
+  },
+  "role.supporter": {
+    "id": "role.supporter",
+    "name": {
+      "ko": "서포터",
+      "en": "Supporter",
+      "jp": null,
+      "zh": null
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "position.front": {
+    "id": "position.front",
+    "name": {
+      "ko": "전열",
+      "en": "Front",
+      "jp": null,
+      "zh": null
+    }
+  },
+  "position.middle": {
+    "id": "position.middle",
+    "name": {
+      "ko": "중열",
+      "en": "Middle",
+      "jp": null,
+      "zh": null
+    }
+  },
+  "position.back": {
+    "id": "position.back",
+    "name": {
+      "ko": "후열",
+      "en": "Back",
+      "jp": null,
+      "zh": null
+    }
+  }
+}

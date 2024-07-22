@@ -1,0 +1,20 @@
+{
+  "method.physic": {
+    "id": "method.physic",
+    "name": {
+      "ko": "물리",
+      "en": "Physic",
+      "jp": null,
+      "zh": null
+    }
+  },
+  "method.magic": {
+    "id": "method.magic",
+    "name": {
+      "ko": "마법",
+      "en": "Magic",
+      "jp": null,
+      "zh": null
+    }
+  }
+}
