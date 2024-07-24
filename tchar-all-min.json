@@ -1133,7 +1133,7 @@
     "data": {
       "isPlayable": true,
       "isEldain": true,
-      "hasAside": false,
+      "hasAside": true,
       "rank": 3,
       "race": "race.ghost",
       "persona": "persona.gloomy",
