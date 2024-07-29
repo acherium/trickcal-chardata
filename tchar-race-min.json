@@ -1549,6 +1549,28 @@
         "position": "position.middle",
         "color": "8AA9CF"
       }
+    },
+    "char.goldy": {
+      "id": "char.goldy",
+      "datacode": "goldy",
+      "name": {
+        "ko": "골디",
+        "en": "Goldy",
+        "jp": null,
+        "zh": null
+      },
+      "data": {
+        "isPlayable": false,
+        "isEldain": null,
+        "hasAside": null,
+        "rank": null,
+        "race": "race.dragon",
+        "persona": null,
+        "role": null,
+        "method": null,
+        "position": null,
+        "color": "D09D4B"
+      }
     }
   },
   "race.witch": {
