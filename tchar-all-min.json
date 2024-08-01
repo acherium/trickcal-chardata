@@ -1165,6 +1165,28 @@
       "color": "F7AFBB"
     }
   },
+  "char.barong": {
+    "id": "char.barong",
+    "datacode": "barong",
+    "name": {
+      "ko": "바롱",
+      "en": "Barong",
+      "jp": null,
+      "zh": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": false,
+      "rank": 3,
+      "race": "race.ghost",
+      "persona": "persona.cool",
+      "role": "role.dealer",
+      "method": "method.magic",
+      "position": "position.front",
+      "color": "878682"
+    }
+  },
   "char.shady": {
     "id": "char.shady",
     "datacode": "shady",
