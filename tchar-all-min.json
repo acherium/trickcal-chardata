@@ -241,6 +241,28 @@
       "color": null
     }
   },
+  "char.canta": {
+    "id": "char.canta",
+    "datacode": "canta",
+    "name": {
+      "ko": "칸타",
+      "en": "Canta",
+      "jp": null,
+      "zh": null
+    },
+    "data": {
+      "isPlayable": false,
+      "isEldain": null,
+      "hasAside": null,
+      "rank": null,
+      "race": "race.fairy",
+      "persona": null,
+      "role": null,
+      "method": null,
+      "position": null,
+      "color": "65929E"
+    }
+  },
   "char.epica": {
     "id": "char.epica",
     "datacode": "epica",
@@ -1583,6 +1605,28 @@
       "color": "D09D4B"
     }
   },
+  "char.pira": {
+    "id": "char.pira",
+    "datacode": "pira",
+    "name": {
+      "ko": "피라",
+      "en": "Pira",
+      "jp": null,
+      "zh": null
+    },
+    "data": {
+      "isPlayable": false,
+      "isEldain": null,
+      "hasAside": null,
+      "rank": null,
+      "race": "race.dragon",
+      "persona": null,
+      "role": null,
+      "method": null,
+      "position": null,
+      "color": "7B5B2F"
+    }
+  },
   "char.aya": {
     "id": "char.aya",
     "datacode": "aya",
@@ -1625,6 +1669,28 @@
       "method": "method.physic",
       "position": "position.front",
       "color": "5C4F62"
+    }
+  },
+  "char.snorky": {
+    "id": "char.snorky",
+    "datacode": "snorky",
+    "name": {
+      "ko": "스노키",
+      "en": "Snorky",
+      "jp": null,
+      "zh": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": false,
+      "rank": 3,
+      "race": "race.witch",
+      "persona": "persona.gloomy",
+      "role": "role.tanker",
+      "method": "method.physic",
+      "position": "position.front",
+      "color": "413C3D"
     }
   },
   "char.fricle": {
@@ -1769,15 +1835,15 @@
       "zh": null
     },
     "data": {
-      "isPlayable": false,
-      "isEldain": null,
-      "hasAside": null,
-      "rank": null,
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": false,
+      "rank": 2,
       "race": "race.witch",
-      "persona": null,
-      "role": null,
-      "method": null,
-      "position": null,
+      "persona": "persona.gloomy",
+      "role": "role.supporter",
+      "method": "method.magic",
+      "position": "position.back",
       "color": "973B58"
     }
   },
