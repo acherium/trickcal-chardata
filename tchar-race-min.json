@@ -122,7 +122,7 @@
       "data": {
         "isPlayable": true,
         "isEldain": false,
-        "hasAside": false,
+        "hasAside": true,
         "rank": 3,
         "race": "race.fairy",
         "persona": "persona.naive",
@@ -786,7 +786,7 @@
       "data": {
         "isPlayable": true,
         "isEldain": false,
-        "hasAside": false,
+        "hasAside": true,
         "rank": 3,
         "race": "race.elf",
         "persona": "persona.gloomy",
@@ -964,7 +964,7 @@
       "data": {
         "isPlayable": true,
         "isEldain": true,
-        "hasAside": false,
+        "hasAside": true,
         "rank": 3,
         "race": "race.spirit",
         "persona": "persona.jolly",
@@ -1452,7 +1452,7 @@
       "data": {
         "isPlayable": true,
         "isEldain": false,
-        "hasAside": false,
+        "hasAside": true,
         "rank": 3,
         "race": "race.dragon",
         "persona": "persona.jolly",
@@ -1518,7 +1518,7 @@
       "data": {
         "isPlayable": true,
         "isEldain": false,
-        "hasAside": false,
+        "hasAside": true,
         "rank": 3,
         "race": "race.dragon",
         "persona": "persona.mad",
