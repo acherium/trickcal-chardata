@@ -1615,15 +1615,15 @@
       "zh": null
     },
     "data": {
-      "isPlayable": false,
-      "isEldain": null,
-      "hasAside": null,
-      "rank": null,
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": false,
+      "rank": 3,
       "race": "race.dragon",
-      "persona": null,
-      "role": null,
-      "method": null,
-      "position": null,
+      "persona": "persona.mad",
+      "role": "role.supporter",
+      "method": "method.physic",
+      "position": "position.back",
       "color": "7B5B2F"
     }
   },
