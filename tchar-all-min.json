@@ -153,6 +153,28 @@
       "color": "E7BBBB"
     }
   },
+  "char.canta": {
+    "id": "char.canta",
+    "datacode": "canta",
+    "name": {
+      "ko": "칸타",
+      "en": "Canta",
+      "jp": null,
+      "zh": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": false,
+      "rank": 2,
+      "race": "race.fairy",
+      "persona": "persona.cool",
+      "role": "role.dealer",
+      "method": "method.physic",
+      "position": "position.middle",
+      "color": "65929E"
+    }
+  },
   "char.mayo": {
     "id": "char.mayo",
     "datacode": "mayo",
@@ -239,28 +261,6 @@
       "method": "method.magic",
       "position": "position.back",
       "color": null
-    }
-  },
-  "char.canta": {
-    "id": "char.canta",
-    "datacode": "canta",
-    "name": {
-      "ko": "칸타",
-      "en": "Canta",
-      "jp": null,
-      "zh": null
-    },
-    "data": {
-      "isPlayable": false,
-      "isEldain": null,
-      "hasAside": null,
-      "rank": null,
-      "race": "race.fairy",
-      "persona": null,
-      "role": null,
-      "method": null,
-      "position": null,
-      "color": "65929E"
     }
   },
   "char.epica": {
@@ -1669,6 +1669,28 @@
       "method": "method.physic",
       "position": "position.front",
       "color": "5C4F62"
+    }
+  },
+  "char.sherum": {
+    "id": "char.sherum",
+    "datacode": "sherum",
+    "name": {
+      "ko": "셰럼",
+      "en": "Sherum",
+      "jp": null,
+      "zh": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": false,
+      "rank": 3,
+      "race": "race.witch",
+      "persona": "persona.naive",
+      "role": "role.tanker",
+      "method": "method.magic",
+      "position": "position.front",
+      "color": "727586"
     }
   },
   "char.snorky": {
