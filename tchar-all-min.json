@@ -21,6 +21,28 @@
       "color": "BB3626"
     }
   },
+  "char.joanne": {
+    "id": "char.joanne",
+    "datacode": "joanne",
+    "name": {
+      "ko": "죠안",
+      "en": "Joanne",
+      "jp": null,
+      "zh": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": true,
+      "hasAside": false,
+      "rank": 3,
+      "race": "race.fairy",
+      "persona": "persona.gloomy",
+      "role": "role.supporter",
+      "method": "method.physic",
+      "position": "position.any",
+      "color": "83AF8E"
+    }
+  },
   "char.erpin": {
     "id": "char.erpin",
     "datacode": "erpin",

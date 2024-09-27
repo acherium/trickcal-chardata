@@ -25,5 +25,14 @@
       "jp": null,
       "zh": null
     }
+  },
+  "position.any": {
+    "id": "position.any",
+    "name": {
+      "ko": "모든 열",
+      "en": "Any",
+      "jp": null,
+      "zh": null
+    }
   }
 }
