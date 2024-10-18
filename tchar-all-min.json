@@ -6,7 +6,8 @@
       "ko": "클로에",
       "en": "Chloe",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -28,12 +29,13 @@
       "ko": "죠안",
       "en": "Joanne",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
       "isEldain": true,
-      "hasAside": false,
+      "hasAside": true,
       "rank": 3,
       "race": "race.fairy",
       "persona": "persona.gloomy",
@@ -49,8 +51,9 @@
     "name": {
       "ko": "에르핀",
       "en": "Erpin",
-      "jp": null,
-      "zh": null
+      "jp": "エルフィン",
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -72,7 +75,8 @@
       "ko": "에슈르",
       "en": "Ashur",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -94,7 +98,8 @@
       "ko": "네르",
       "en": "Ner",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -116,7 +121,8 @@
       "ko": "슈팡",
       "en": "Shoupan",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -138,7 +144,8 @@
       "ko": "캬롯",
       "en": "Kyarot",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -160,7 +167,8 @@
       "ko": "마리",
       "en": "Marie",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -182,7 +190,8 @@
       "ko": "칸타",
       "en": "Canta",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -204,7 +213,8 @@
       "ko": "마요",
       "en": "Mayo",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -226,7 +236,8 @@
       "ko": "파트라",
       "en": "Patula",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -248,7 +259,8 @@
       "ko": "큐이",
       "en": "Cuee",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -270,7 +282,8 @@
       "ko": "카렌",
       "en": "Carren",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -291,8 +304,9 @@
     "name": {
       "ko": "에피카",
       "en": "Epica",
-      "jp": null,
-      "zh": null
+      "jp": "エピカ",
+      "zh": "埃皮卡",
+      "tw": "艾皮卡"
     },
     "data": {
       "isPlayable": true,
@@ -313,8 +327,9 @@
     "name": {
       "ko": "코미",
       "en": "Kommy",
-      "jp": null,
-      "zh": null
+      "jp": "コミー",
+      "zh": null,
+      "tw": ""
     },
     "data": {
       "isPlayable": true,
@@ -336,12 +351,13 @@
       "ko": "티그",
       "en": "Tig",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
       "isEldain": false,
-      "hasAside": false,
+      "hasAside": true,
       "rank": 3,
       "race": "race.furry",
       "persona": "persona.jolly",
@@ -357,8 +373,9 @@
     "name": {
       "ko": "루포",
       "en": "Rufo",
-      "jp": null,
-      "zh": null
+      "jp": "ルポ",
+      "zh": null,
+      "tw": "盧波"
     },
     "data": {
       "isPlayable": true,
@@ -380,7 +397,8 @@
       "ko": "모모",
       "en": "Momo",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -401,8 +419,9 @@
     "name": {
       "ko": "버터",
       "en": "Butter",
-      "jp": null,
-      "zh": null
+      "jp": "バター",
+      "zh": "奶油",
+      "tw": "黄油"
     },
     "data": {
       "isPlayable": true,
@@ -423,8 +442,9 @@
     "name": {
       "ko": "디아나",
       "en": "Diana",
-      "jp": null,
-      "zh": null
+      "jp": "ディアナ",
+      "zh": "迪亚纳",
+      "tw": "蒂亞娜"
     },
     "data": {
       "isPlayable": true,
@@ -446,7 +466,8 @@
       "ko": "코미(수영복)",
       "en": "Kommy(Swimsuit)",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -468,7 +489,8 @@
       "ko": "베니",
       "en": "Beni",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -490,7 +512,8 @@
       "ko": "마고",
       "en": "Mago",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -512,7 +535,8 @@
       "ko": "바나",
       "en": "Bana",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -534,7 +558,8 @@
       "ko": "밍스",
       "en": "Mynx",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -556,7 +581,8 @@
       "ko": "쵸피",
       "en": "Chopi",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -578,7 +604,8 @@
       "ko": "유미미",
       "en": "Yumimi",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -600,7 +627,8 @@
       "ko": "이드",
       "en": "Ed",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -622,7 +650,8 @@
       "ko": "나타",
       "en": "LLEL-S",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": false,
@@ -644,7 +673,8 @@
       "ko": "리뉴아",
       "en": "Renewa",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": false,
@@ -666,7 +696,8 @@
       "ko": "리뉴아",
       "en": "Renewa",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -688,12 +719,13 @@
       "ko": "엘레나",
       "en": "Elena",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
       "isEldain": false,
-      "hasAside": false,
+      "hasAside": true,
       "rank": 3,
       "race": "race.elf",
       "persona": "persona.cool",
@@ -710,11 +742,12 @@
       "ko": "헤일리",
       "en": "Haley",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
-      "isEldain": false,
+      "isEldain": true,
       "hasAside": false,
       "rank": 3,
       "race": "race.elf",
@@ -732,7 +765,8 @@
       "ko": "리스티",
       "en": "Risty",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -754,7 +788,8 @@
       "ko": "글러브",
       "en": "Glove",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": false,
@@ -776,7 +811,8 @@
       "ko": "칸나",
       "en": "Canna",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -798,7 +834,8 @@
       "ko": "힐데",
       "en": "Hilde",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -820,7 +857,8 @@
       "ko": "아멜리아",
       "en": "Amelia",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -842,7 +880,8 @@
       "ko": "로네",
       "en": "Rohne",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -864,7 +903,8 @@
       "ko": "마에스트로 2호",
       "en": "Maestro MK.2",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -886,7 +926,8 @@
       "ko": "페스타",
       "en": "Festa",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -908,7 +949,8 @@
       "ko": "알레트",
       "en": "Allet",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -930,7 +972,8 @@
       "ko": "레이지",
       "en": "Lazy",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -952,7 +995,8 @@
       "ko": "타이다",
       "en": "Taida",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -974,7 +1018,8 @@
       "ko": "우이",
       "en": "Ui",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -996,7 +1041,8 @@
       "ko": "블랑셰",
       "en": "Blanchet",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1018,7 +1064,8 @@
       "ko": "실라",
       "en": "Sylla",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1039,8 +1086,9 @@
     "name": {
       "ko": "나이아",
       "en": "Naia",
-      "jp": null,
-      "zh": null
+      "jp": "ナイア",
+      "zh": null,
+      "tw": "奈亚"
     },
     "data": {
       "isPlayable": true,
@@ -1062,7 +1110,8 @@
       "ko": "멜루나",
       "en": "Meluna",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1084,7 +1133,8 @@
       "ko": "빅우드",
       "en": "Bigwood",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1106,7 +1156,8 @@
       "ko": "이프리트",
       "en": "Ifrit",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1128,7 +1179,8 @@
       "ko": "쥬비",
       "en": "Jubee",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1150,7 +1202,8 @@
       "ko": "가비아",
       "en": "Gabia",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1172,7 +1225,8 @@
       "ko": "시온 더 다크불릿",
       "en": "Xion the Darkbullet",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1194,7 +1248,8 @@
       "ko": "셀리네",
       "en": "Selline",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1216,7 +1271,8 @@
       "ko": "바롱",
       "en": "Barong",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1238,12 +1294,13 @@
       "ko": "셰이디",
       "en": "Shady",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
       "isEldain": false,
-      "hasAside": false,
+      "hasAside": true,
       "rank": 3,
       "race": "race.ghost",
       "persona": "persona.mad",
@@ -1260,7 +1317,8 @@
       "ko": "림",
       "en": "Rim",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1282,7 +1340,8 @@
       "ko": "앨리스",
       "en": "Alice",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1304,7 +1363,8 @@
       "ko": "레테",
       "en": "Lethe",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1326,7 +1386,8 @@
       "ko": "스피키",
       "en": "Speaki",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1348,7 +1409,8 @@
       "ko": "에스피",
       "en": "Espi",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1370,7 +1432,8 @@
       "ko": "베루",
       "en": "Veroo",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1392,7 +1455,8 @@
       "ko": "사리",
       "en": "Sari",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1414,7 +1478,8 @@
       "ko": "메죵",
       "en": "Maison",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1436,7 +1501,8 @@
       "ko": "비비",
       "en": "Vivi",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1458,7 +1524,8 @@
       "ko": "루드",
       "en": "Rude",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1480,7 +1547,8 @@
       "ko": "리츠",
       "en": "Leets",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1502,7 +1570,8 @@
       "ko": "키디언",
       "en": "Kidian",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1524,7 +1593,8 @@
       "ko": "시스트",
       "en": "Sist",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1546,7 +1616,8 @@
       "ko": "제이드",
       "en": "Jade",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1568,7 +1639,8 @@
       "ko": "다야",
       "en": "Daya",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1590,7 +1662,8 @@
       "ko": "실피르",
       "en": "Silphir",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1611,8 +1684,9 @@
     "name": {
       "ko": "골디",
       "en": "Goldy",
-      "jp": null,
-      "zh": null
+      "jp": "ゴールディ",
+      "zh": "金迪",
+      "tw": "高帣"
     },
     "data": {
       "isPlayable": false,
@@ -1634,7 +1708,8 @@
       "ko": "피라",
       "en": "Pira",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1656,7 +1731,8 @@
       "ko": "아야",
       "en": "Aya",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1678,7 +1754,8 @@
       "ko": "벨벳",
       "en": "Velvet",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1700,7 +1777,8 @@
       "ko": "셰럼",
       "en": "Sherum",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1722,7 +1800,8 @@
       "ko": "스노키",
       "en": "Snorky",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1743,8 +1822,9 @@
     "name": {
       "ko": "프리클",
       "en": "Fricle",
-      "jp": null,
-      "zh": null
+      "jp": "フリックル",
+      "zh": null,
+      "tw": "芙莉可"
     },
     "data": {
       "isPlayable": true,
@@ -1766,7 +1846,8 @@
       "ko": "롤렛",
       "en": "Rollett",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1788,7 +1869,8 @@
       "ko": "벨리타",
       "en": "Belita",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1810,12 +1892,13 @@
       "ko": "포셔",
       "en": "Posher",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
       "isEldain": false,
-      "hasAside": false,
+      "hasAside": true,
       "rank": 3,
       "race": "race.witch",
       "persona": "persona.gloomy",
@@ -1832,7 +1915,8 @@
       "ko": "피코라",
       "en": "Picora",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1854,7 +1938,8 @@
       "ko": "레비",
       "en": "Levi",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1876,7 +1961,8 @@
       "ko": "바리에",
       "en": "Barie",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": true,
@@ -1898,7 +1984,8 @@
       "ko": "교주",
       "en": "Player",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": false,
@@ -1920,7 +2007,8 @@
       "ko": "영춘",
       "en": "Youngchun",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": false,
@@ -1942,7 +2030,8 @@
       "ko": "게스트",
       "en": "Guest",
       "jp": null,
-      "zh": null
+      "zh": null,
+      "tw": null
     },
     "data": {
       "isPlayable": false,
