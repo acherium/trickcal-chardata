@@ -474,7 +474,7 @@
       "isEldain": null,
       "hasAside": null,
       "rank": null,
-      "race": null,
+      "race": "race.furry",
       "persona": null,
       "role": null,
       "method": null,
