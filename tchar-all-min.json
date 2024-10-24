@@ -436,6 +436,52 @@
       "color": "EEC375"
     }
   },
+  "char.guin": {
+    "id": "char.guin",
+    "datacode": "guin",
+    "name": {
+      "ko": "그윈",
+      "en": "Guin",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": false,
+      "rank": 3,
+      "race": "race.furry",
+      "persona": "persona.cool",
+      "role": "role.supporter",
+      "method": "method.magic",
+      "position": "position.front",
+      "color": "FE9E47"
+    }
+  },
+  "char.delia": {
+    "id": "char.delia",
+    "datacode": "delia",
+    "name": {
+      "ko": "델리아",
+      "en": "Delia",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": false,
+      "isEldain": null,
+      "hasAside": null,
+      "rank": null,
+      "race": null,
+      "persona": null,
+      "role": null,
+      "method": null,
+      "position": null,
+      "color": "C597A4"
+    }
+  },
   "char.diana": {
     "id": "char.diana",
     "datacode": "디아나",
