@@ -1116,7 +1116,7 @@
     "data": {
       "isPlayable": true,
       "isEldain": false,
-      "hasAside": false,
+      "hasAside": true,
       "rank": 3,
       "race": "race.spirit",
       "persona": "persona.gloomy",
@@ -1139,7 +1139,7 @@
     "data": {
       "isPlayable": true,
       "isEldain": false,
-      "hasAside": false,
+      "hasAside": true,
       "rank": 3,
       "race": "race.spirit",
       "persona": "persona.cool",
@@ -1323,7 +1323,7 @@
     "data": {
       "isPlayable": true,
       "isEldain": false,
-      "hasAside": false,
+      "hasAside": true,
       "rank": 3,
       "race": "race.ghost",
       "persona": "persona.jolly",
@@ -1446,6 +1446,29 @@
       "method": "method.physic",
       "position": "position.front",
       "color": "A8BCC7"
+    }
+  },
+  "char.speakimaid": {
+    "id": "char.speakimaid",
+    "datacode": "speakimaid",
+    "name": {
+      "ko": "스피키(메이드)",
+      "en": "Speaki(Maid)",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": false,
+      "rank": 3,
+      "race": "race.ghost",
+      "persona": "persona.jolly",
+      "role": "role.dealer",
+      "method": "method.magic",
+      "position": "position.back",
+      "color": "EF9964"
     }
   },
   "char.speaki": {
@@ -1622,7 +1645,7 @@
     "data": {
       "isPlayable": true,
       "isEldain": false,
-      "hasAside": false,
+      "hasAside": true,
       "rank": 3,
       "race": "race.dragon",
       "persona": "persona.mad",
@@ -1714,7 +1737,7 @@
     "data": {
       "isPlayable": true,
       "isEldain": false,
-      "hasAside": false,
+      "hasAside": true,
       "rank": 3,
       "race": "race.dragon",
       "persona": "persona.naive",
