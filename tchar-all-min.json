@@ -2115,6 +2115,29 @@
       "color": "768964"
     }
   },
+  "char.crepe": {
+    "id": "char.crepe",
+    "datacode": "crepe",
+    "name": {
+      "ko": "크레페",
+      "en": "Crepe",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": false,
+      "isEldain": null,
+      "hasAside": null,
+      "rank": null,
+      "race": "race.unknown",
+      "persona": null,
+      "role": null,
+      "method": null,
+      "position": null,
+      "color": "FCBAB7"
+    }
+  },
   "char.guest": {
     "id": "char.guest",
     "datacode": null,
