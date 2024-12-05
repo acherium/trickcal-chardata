@@ -334,7 +334,7 @@
     "data": {
       "isPlayable": true,
       "isEldain": true,
-      "hasAside": false,
+      "hasAside": true,
       "rank": 3,
       "race": "race.furry",
       "persona": "persona.jolly",
@@ -342,6 +342,29 @@
       "method": "method.physic",
       "position": "position.middle",
       "color": "BDD2F0"
+    }
+  },
+  "char.lion": {
+    "id": "char.lion",
+    "datacode": "lion",
+    "name": {
+      "ko": "리온",
+      "en": "Lion",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": false,
+      "rank": 3,
+      "race": "race.furry",
+      "persona": "persona.gloomy",
+      "role": "role.tanker",
+      "method": "method.physic",
+      "position": "position.front",
+      "color": "A0304C"
     }
   },
   "char.kommy": {
@@ -1829,7 +1852,7 @@
     "data": {
       "isPlayable": true,
       "isEldain": true,
-      "hasAside": false,
+      "hasAside": true,
       "rank": 3,
       "race": "race.witch",
       "persona": "persona.cool",
