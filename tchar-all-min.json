@@ -1770,6 +1770,29 @@
       "color": "A8BBC8"
     }
   },
+  "char.opal": {
+    "id": "char.opal",
+    "datacode": "opal",
+    "name": {
+      "ko": "오팔",
+      "en": "Opal",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": false,
+      "rank": 3,
+      "race": "race.dragon",
+      "persona": "persona.naive",
+      "role": "role.supporter",
+      "method": "method.physic",
+      "position": "position.middle",
+      "color": "CFEAFF"
+    }
+  },
   "char.silphir": {
     "id": "char.silphir",
     "datacode": "silphir",
