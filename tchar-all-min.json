@@ -344,6 +344,29 @@
       "color": "BDD2F0"
     }
   },
+  "char.ran": {
+    "id": "char.ran",
+    "datacode": "ran",
+    "name": {
+      "ko": "란",
+      "en": "Ran",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": true,
+      "hasAside": true,
+      "rank": 3,
+      "race": "race.furry",
+      "persona": "persona.naive",
+      "role": "role.dealer",
+      "method": "method.magic",
+      "position": "position.back",
+      "color": "7F4AA6"
+    }
+  },
   "char.lion": {
     "id": "char.lion",
     "datacode": "lion",
