@@ -1448,6 +1448,29 @@
       "color": "AB474A"
     }
   },
+  "char.rimchaos": {
+    "id": "char.rimchaos",
+    "datacode": "rimchaos",
+    "name": {
+      "ko": "림(혼돈)",
+      "en": "Rim(Chaos)",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": true,
+      "rank": 3,
+      "race": "race.ghost",
+      "persona": "persona.mad",
+      "role": "role.dealer",
+      "method": "method.physic",
+      "position": "position.back",
+      "color": "DC2826"
+    }
+  },
   "char.alice": {
     "id": "char.alice",
     "datacode": "alice",
