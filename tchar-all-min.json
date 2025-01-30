@@ -896,6 +896,29 @@
       "color": "AE6D7F"
     }
   },
+  "char.eisia": {
+    "id": "char.eisia",
+    "datacode": "eisia",
+    "name": {
+      "ko": "아이시아",
+      "en": "Eisia",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": true,
+      "rank": 3,
+      "race": "race.elf",
+      "persona": "persona.cool",
+      "role": "role.dealer",
+      "method": "method.magic",
+      "position": "position.back",
+      "color": "4D98DF"
+    }
+  },
   "char.gloveai": {
     "id": "char.gloveai",
     "datacode": "gloveai",
