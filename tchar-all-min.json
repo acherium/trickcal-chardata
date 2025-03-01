@@ -390,6 +390,29 @@
       "color": "7F4AA6"
     }
   },
+  "char.suro": {
+    "id": "char.suro",
+    "datacode": "suro",
+    "name": {
+      "ko": "슈로",
+      "en": "Suro",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": true,
+      "rank": 3,
+      "race": "race.furry",
+      "persona": "persona.jolly",
+      "role": "role.supporter",
+      "method": "method.physic",
+      "position": "position.front",
+      "color": "7AB7A8"
+    }
+  },
   "char.lion": {
     "id": "char.lion",
     "datacode": "lion",
