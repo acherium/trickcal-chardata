@@ -1218,6 +1218,29 @@
       "color": "FFDB5B"
     }
   },
+  "char.laika": {
+    "id": "char.laika",
+    "datacode": "laika",
+    "name": {
+      "ko": "라이카",
+      "en": "Laika",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": true,
+      "rank": 3,
+      "race": "race.spirit",
+      "persona": "persona.naive",
+      "role": "role.dealer",
+      "method": "method.physic",
+      "position": "position.front",
+      "color": "00E4AE"
+    }
+  },
   "char.blanchet": {
     "id": "char.blanchet",
     "datacode": "blanchet",
