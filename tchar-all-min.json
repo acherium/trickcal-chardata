@@ -1448,6 +1448,29 @@
       "color": "4C76AD"
     }
   },
+  "char.vela": {
+    "id": "char.vela",
+    "datacode": "vela",
+    "name": {
+      "ko": "벨라",
+      "en": "Vela",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": false,
+      "isEldain": true,
+      "hasAside": true,
+      "rank": 3,
+      "race": "race.ghost",
+      "persona": "persona.jolly",
+      "role": null,
+      "method": null,
+      "position": null,
+      "color": "C5D2F3"
+    }
+  },
   "char.selline": {
     "id": "char.selline",
     "datacode": "selline",
