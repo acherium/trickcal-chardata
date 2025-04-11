@@ -1793,6 +1793,29 @@
       "color": "B8AFB1"
     }
   },
+  "char.neti": {
+    "id": "char.neti",
+    "datacode": "neti",
+    "name": {
+      "ko": "네티",
+      "en": "Neti",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": true,
+      "rank": 3,
+      "race": "race.dragon",
+      "persona": "persona.mad",
+      "role": "role.tanker",
+      "method": "method.physic",
+      "position": "position.front",
+      "color": "26354A"
+    }
+  },
   "char.rude": {
     "id": "char.rude",
     "datacode": "rude",
