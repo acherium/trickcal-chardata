@@ -318,7 +318,7 @@
       "role": "role.supporter",
       "method": "method.magic",
       "position": "position.middle",
-      "color": "C0B4B6"
+      "color": "916F6D"
     }
   },
   "char.carren": {
@@ -341,7 +341,7 @@
       "role": "role.supporter",
       "method": "method.magic",
       "position": "position.back",
-      "color": "C0B4B6"
+      "color": "DA9796"
     }
   },
   "char.epica": {
@@ -411,6 +411,29 @@
       "method": "method.physic",
       "position": "position.front",
       "color": "7AB7A8"
+    }
+  },
+  "char.uros": {
+    "id": null,
+    "datacode": null,
+    "name": {
+      "ko": "우로스",
+      "en": "Uros",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": null,
+      "hasAside": null,
+      "rank": null,
+      "race": "race.furry",
+      "persona": null,
+      "role": null,
+      "method": null,
+      "position": null,
+      "color": "C0B4B6"
     }
   },
   "char.lion": {
@@ -1767,7 +1790,7 @@
       "role": "role.dealer",
       "method": "method.physic",
       "position": "position.back",
-      "color": "C0B4B6"
+      "color": "916F6D"
     }
   },
   "char.vivi": {
