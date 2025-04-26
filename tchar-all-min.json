@@ -45,6 +45,29 @@
       "color": "83AF8E"
     }
   },
+  "char.ricota": {
+    "id": "char.ricota",
+    "datacode": "ricota",
+    "name": {
+      "ko": "리코타",
+      "en": "Ricota",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": true,
+      "rank": 3,
+      "race": "race.fairy",
+      "persona": "persona.cool",
+      "role": "role.tanker",
+      "method": "method.physic",
+      "position": "position.front",
+      "color": "3F3763"
+    }
+  },
   "char.shasha": {
     "id": "char.shasha",
     "datacode": "shasha",
