@@ -68,6 +68,29 @@
       "color": "3F3763"
     }
   },
+  "char.mayocool": {
+    "id": "char.mayocool",
+    "datacode": "mayocool",
+    "name": {
+      "ko": "마요(멋짐)",
+      "en": "Mayo(Cool)",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": true,
+      "rank": 3,
+      "race": "race.fairy",
+      "persona": "persona.naive",
+      "role": "role.dealer",
+      "method": "method.physic",
+      "position": "position.middle",
+      "color": "5E6D83"
+    }
+  },
   "char.shasha": {
     "id": "char.shasha",
     "datacode": "shasha",
