@@ -1126,6 +1126,29 @@
       "color": "926F6E"
     }
   },
+  "char.orr": {
+    "id": "char.orr",
+    "datacode": "orr",
+    "name": {
+      "ko": "오르",
+      "en": "Orr",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": true,
+      "rank": 3,
+      "race": "race.elf",
+      "persona": "persona.gloomy",
+      "role": "role.supporter",
+      "method": "method.magic",
+      "position": "position.back",
+      "color": "649BA6"
+    }
+  },
   "char.rohne": {
     "id": "char.rohne",
     "datacode": "rohne",
