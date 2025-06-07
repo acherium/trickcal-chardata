@@ -668,7 +668,7 @@
   },
   "char.diana": {
     "id": "char.diana",
-    "datacode": "디아나",
+    "datacode": "diana",
     "name": {
       "ko": "디아나",
       "en": "Diana",
@@ -687,6 +687,29 @@
       "method": "method.magic",
       "position": "position.middle",
       "color": "C19079"
+    }
+  },
+  "char.dianayester": {
+    "id": "char.dianayester",
+    "datacode": "dianayester",
+    "name": {
+      "ko": "디아나(왕년)",
+      "en": "Diana(Yester)",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": true,
+      "hasAside": true,
+      "rank": 3,
+      "race": "race.furry",
+      "persona": "persona.cool",
+      "role": "role.dealer",
+      "method": "method.physic",
+      "position": "position.front",
+      "color": "C03632"
     }
   },
   "char.kommyswim": {
