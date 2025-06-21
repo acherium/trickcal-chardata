@@ -1379,6 +1379,29 @@
       "color": "2660E1"
     }
   },
+  "char.arco": {
+    "id": "char.arco",
+    "datacode": "arco",
+    "name": {
+      "ko": "아르코",
+      "en": "Arco",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": true,
+      "rank": 3,
+      "race": "race.spirit",
+      "persona": "persona.jolly",
+      "role": "role.dealer",
+      "method": "method.physic",
+      "position": "position.middle",
+      "color": "8640C6"
+    }
+  },
   "char.sylla": {
     "id": "char.sylla",
     "datacode": "sylla",
