@@ -1103,6 +1103,29 @@
       "color": "B77148"
     }
   },
+  "char.kathy": {
+    "id": "char.kathy",
+    "datacode": "kathy",
+    "name": {
+      "ko": "캐시",
+      "en": "Kathy",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": true,
+      "isEldain": false,
+      "hasAside": true,
+      "rank": 3,
+      "race": "race.elf",
+      "persona": "persona.naive",
+      "role": "role.dealer",
+      "method": "method.physic",
+      "position": "position.back",
+      "color": "5A5B5A"
+    }
+  },
   "char.hilde": {
     "id": "char.hilde",
     "datacode": "hilde",
@@ -2136,6 +2159,29 @@
       "method": "method.physic",
       "position": "position.middle",
       "color": "8AA9CF"
+    }
+  },
+  "char.arnet": {
+    "id": "char.arnet",
+    "datacode": "arnet",
+    "name": {
+      "ko": "아네트",
+      "en": "Arnet",
+      "jp": null,
+      "zh": null,
+      "tw": null
+    },
+    "data": {
+      "isPlayable": false,
+      "isEldain": false,
+      "hasAside": false,
+      "rank": null,
+      "race": "race.dragon",
+      "persona": "persona.gloomy",
+      "role": null,
+      "method": null,
+      "position": null,
+      "color": "C8B596"
     }
   },
   "char.goldy": {
